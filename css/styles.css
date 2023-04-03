@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: #131313;
+}
+a {
+    color: #13a1d0;
+}
+a:hover {
+    color: #1a52ba;
+}
+.main-container {
+    padding: 1rem;
+    margin: 2rem auto;
+    flex: 1;
+}
+
+footer {
+    background-color: #222;
+    color: white;
+
+}
+
+footer .col {
+    padding: 1.5rem
+}
